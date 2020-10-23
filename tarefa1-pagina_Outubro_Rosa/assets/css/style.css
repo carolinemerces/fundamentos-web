@@ -1,0 +1,117 @@
+/*
+Estilos da página index.html
+*/
+.center {
+  text-align: center;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.container {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+}
+
+#menu li {
+  float: right;
+  display: inline;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+#menu li a {
+  text-decoration: none;
+  color: black;
+}
+
+#menu li a:hover {
+  color: grey;
+}
+
+.p-30 {
+  padding: 30px;
+}
+.p-10 {
+  padding: 10px;
+}
+.br-30 {
+  border-radius: 30%;
+}
+
+.br-2 {
+  border-radius: 2%;
+}
+
+.wh-300 {
+  width: 300px;
+  height: 300px;
+}
+
+.tm-social {
+  width: 30px;
+  height: 30px;
+}
+
+.mb-50 {
+  margin-bottom: 50px;
+}
+
+.link {
+  text-decoration: none;
+  color: #b33771;
+}
+.l {
+  text-decoration: none;
+  color:#F8EFBA;
+}
+.float {
+  float: right;
+}
+
+.link:hover {
+  color :#b33771;
+}
+
+.c {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.f {
+  align-items: flex-end;
+}
+
+.b {
+  color: black;
+  background-color: whitesmoke;
+  border-radius: 50%;
+}
+
+.back {
+  background-color: #6d214f;
+  color: white;
+  border-radius: 1%;
+}
+.back-1 {
+  background-color: black;
+  color: white;
+  border-radius: 1%;
+}
+
+/*
+  Estilos da página contato.html
+  */
+.ml-50 {
+  margin-left: 50px;
+}
+
+.mr-50 {
+  margin-right: 50px;
+}
